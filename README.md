@@ -19,3 +19,11 @@ Are they independent?
 that you will also win the second game
 
 (c) Explain the distinction between assuming that the outcomes of the games are independent and assuming that they are conditionally independent given the opponent’s skill level. Which of these assumptions seems more reasonable, and why?
+
+## Assignment 8 
+1. A crime is committed by one of two suspects, A and B. Initially, there is equal evidence
+against both of them. In further investigation at the crime scene, it is found that the guilty
+party had a blood type found in 10% of the population. Suspect A does match this blood
+type, whereas the blood type of Suspect B is unknown. (a) Given this new information, what
+is the probability that A is the guilty party? (b) Given this new information, what is the
+probability that B’s blood type matches that found at the crime scene?'''
