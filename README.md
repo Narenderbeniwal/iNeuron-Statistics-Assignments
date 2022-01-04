@@ -35,7 +35,7 @@ probability that B’s blood type matches that found at the crime scene?'''
 this phrase is only used in 1% of non-spam emails. A new email has just arrived, which does
 mention “free money”. What is the probability that it is spam?
 
-## Assignment 6
+## Assignment 5
 
 1. Give an example of 3 events A, B, C which are pairwise independent but not independent.
 Hint: find an example where whether C occurs is completely determined if we know whether
