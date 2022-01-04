@@ -27,3 +27,10 @@ party had a blood type found in 10% of the population. Suspect A does match this
 type, whereas the blood type of Suspect B is unknown. (a) Given this new information, what
 is the probability that A is the guilty party? (b) Given this new information, what is the
 probability that B’s blood type matches that found at the crime scene?'''
+
+## Assignment 7
+
+1. A spam filter is designed by looking at commonly occurring phrases in spam. Suppose that
+80% of email is spam. In 10% of the spam emails, the phrase “free money” is used, whereas
+this phrase is only used in 1% of non-spam emails. A new email has just arrived, which does
+mention “free money”. What is the probability that it is spam?
