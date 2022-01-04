@@ -65,3 +65,15 @@ choice of distribution is P
 2. Let X be a random day of the week, coded so that Monday is 1, Tuesday is 2, etc. (so X takes
 values 1, 2,..., 7, with equal probabilities). Let Y be the next day after X (again represented as
 an integer between 1 and 7). Do X and Y have the same distribution? What is P(X)
+
+## Assignment 3
+
+1. For a group of 7 people, find the probability that all 4 seasons (winter, spring, summer, fall)
+occur at least once each among their birthdays, assuming that all seasons are equally likely.
+
+
+2. Alice attends a small college in which each class meets only once a week. She is deciding
+between 30 non-overlapping classes. There are 6 classes to choose from for each day of the
+week, Monday through Friday. Trusting in the benevolence of randomness, Alice decides to
+register for 7 randomly selected classes out of the 30, with all choices equally likely. What is
+the probability that she will have classes every day, Monday through Friday?
