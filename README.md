@@ -45,3 +45,9 @@ these things.
 marble is put in the bag (so there are 2 marbles now), and then a random marble is taken
 out. The marble taken out is green. What is the probability that the remaining marble is also
 green?
+
+## Assignment 4
+
+1. Is it possible that an event is independent of itself? If so, when?
+2. Is it always true that if A and B are independent events, then Ac and Bc are independent
+events? Show that it is, or give a counterexample.
