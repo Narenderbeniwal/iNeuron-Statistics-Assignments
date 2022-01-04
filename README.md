@@ -77,3 +77,12 @@ between 30 non-overlapping classes. There are 6 classes to choose from for each 
 week, Monday through Friday. Trusting in the benevolence of randomness, Alice decides to
 register for 7 randomly selected classes out of the 30, with all choices equally likely. What is
 the probability that she will have classes every day, Monday through Friday?
+
+
+## Assignment 1
+
+1. There are 100 passengers lined up to board an airplane with 100 seats (with each seat
+assigned to one of the passengers). The first passenger in line crazily decides to sit in a
+randomly chosen seat (with all seats equally likely). Each subsequent passenger takes his or
+her assigned seat if available, and otherwise sits in a random available seat. What is the
+probability that the last passenger in line gets to sit in his or her assigned seat?
